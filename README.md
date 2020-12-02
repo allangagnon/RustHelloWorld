@@ -1,1 +1,1 @@
-Learning Rust With this Hello World example.
+Learning Rust with this Hello World example.
